@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { page } from '$app/stores';
-	import { PUBLIC_APP_NAME } from '$env/static/public';
 	import { BellIcon, MoonIcon, SunIcon } from 'svelte-feather-icons';
 </script>
 
@@ -8,13 +7,11 @@
 <div class="navbar px-5 border-b border-opacity-10 border-base-content">
 	<!-- APP TITLE  -->
 	<div class="flex-1">
-		<a href="/dashboard" class="link no-underline text-xl">
-			{PUBLIC_APP_NAME}
-		</a>
+		<a href="https://dash.pipeline.co.id/en" class="link no-underline text-xl"> Dashboard </a>
 	</div>
 
 	<!-- USER -->
-	{#if $page.data.session.user}
+	{#if $page.data.session && $page.data.session.user}
 		<div class="px-5">
 			<!-- <div class={role === 'admin' ? 'text-accent' : ''}> -->
 			<div>

@@ -6,19 +6,19 @@
 		{
 			key: 'title',
 			title: 'Name',
-			value: (v) => v.title,
+			value: (v: any) => v.title,
 			sortable: true
 		},
 		{
 			key: 'brand',
 			title: 'Brand',
-			value: (v) => v.brand,
+			value: (v: any) => v.brand,
 			sortable: true
 		},
 		{
 			key: 'price',
 			title: 'Price',
-			value: (v) => v.price,
+			value: (v: any) => v.price,
 			sortable: true
 		}
 	];

@@ -5,7 +5,7 @@
 	export let orgs: Array<any>;
 	export let onAction;
 
-	const columns = [
+	const columns: any = [
 		{
 			key: 'name',
 			title: 'Name',

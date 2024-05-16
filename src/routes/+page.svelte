@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { PUBLIC_APP_NAME } from '$env/static/public';
 	import SvelteMarkdown from 'svelte-markdown';
 	import README from '../../README.md?raw';
 </script>
@@ -10,7 +9,7 @@
 	<div class="navbar bg-neutral">
 		<div class="flex-none" />
 		<div class="flex-1 ml-5">
-			<a href="/" class="text-xl">{PUBLIC_APP_NAME}</a>
+			<a href="/" class="text-xl">Dashboard</a>
 		</div>
 		<div class="flex-none">
 			<a href="/auth" role="button" class="btn btn-sm btn-primary">Sign In</a>
