@@ -9,7 +9,7 @@
 	<div class="navbar bg-neutral">
 		<div class="flex-none" />
 		<div class="flex-1 ml-5">
-			<a href="/" class="text-xl">Dashboard</a>
+			<a href="/" class="text-xl">Dashboard PIP</a>
 		</div>
 		<div class="flex-none">
 			<a href="/auth" role="button" class="btn btn-sm btn-primary">Sign In</a>
