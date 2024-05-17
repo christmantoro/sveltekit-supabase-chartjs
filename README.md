@@ -8,13 +8,20 @@
 
 <h3>
 <span style="color:red">
-------- 
+Jika sudah selesai membuat dashboard versi kamu silahkan.
+
+<ul>
+<li>Kirim Video Perkenalan Diri dan Jelaskaan Apa Yang Kamu Bangun</li>
+<li>Kamu Bisa Rekam Menggunakan Loom.com atau vidline.com </li>
+</ul>
+
 </h3>
 </span>
 
 ## Demo Dashboard
 
-Untuk melihat dashboard berdasarkan akses role silahkan [klik disini](https://sveltekit-supabase-dashboard.vercel.app/).
+1. Untuk melihat Landing Page [klik disini](https://sveltekit-supabase-dashboard.vercel.app/).
+2. Untuk melihat Dashboard Setelah Login  [klik disini](https://sveltekit-supabase-dashboard.vercel.app/auth)
 
 ## Fitur Yang Dimiliki
 
@@ -40,12 +47,13 @@ Untuk melihat dashboard berdasarkan akses role silahkan [klik disini](https://sv
 
 ## Apa Yang Harus Dilakukan?
 
+- Hubungkan Frontend dengan [Supabase](https://supabase.com/docs/guides/getting-started/quickstarts/sveltekit)
+- ==**Tambahkan Data dan Chart Versi kamu.**==
 - Coba tambahkan beberapa dokumentasi code sehingga team lain bisa memahami apa fungsi yang tujuan dari sebuah code.
 - Ada beberapa Typescript yang bermasalah.
-- Tambahkan Data dan Chart Versi kamu.
-- Hubungkan Frontend dengan [Supabase](https://supabase.com/docs/guides/getting-started/quickstarts/sveltekit)
 - Tambahkan Role dan Organization UI --> [[Dokumentasi]]
 - Improve mobile version
+- Deploy to Vercel* optional 
 
 ## Cara Memulai
 
@@ -61,7 +69,7 @@ git clone https://github.com/christmantoro/sveltekit-supabase-chartjs.git
 cd sveltekit-supabase-chartjs
 ```
 
-### Setup environment variables
+### MEMBUAT ENVIRONMENT VARIABLE ( sehingga terhubung dengan supabase)
 
 Create a new `.env` file
 
@@ -78,11 +86,11 @@ PUBLIC_SUPABASE_ANON_KEY="YOUR PROJECT ANON KEY"
 PRIVATE_SUPABASE_SERVICE_KEY="YOUR PROJECT SERVICE KEY"
 ```
 
-### Initialize database
+### JALANKAN CODE DI SQL EDITOR SUPABASE
 
 Execute `sql/init_databse.sql` and `sql/init_demo_data.sql` in Supabase SQL Editor.
 
-### Install & run
+### Install & Jalankan
 
 ```bash
 npm install
@@ -101,13 +109,13 @@ npm run build
 npm run preview
 ```
 
-### Deploy
+### KAMU BISA COBA DEPLOY
 
 To deploy to Vercel please follow instructions [here](https://vercel.com/guides/deploying-svelte-with-vercel).
 
 ## Development
 
-Find more development details [here](https://github.com/xulioc/sveltekit-supabase-dashboard/blob/main/README_DEV.md).
+Find more development details [here](https://github.com/christmantoro/sveltekit-supabase-chartjs/blob/main/README_DEV.md).
 
 ## Contribute
 
