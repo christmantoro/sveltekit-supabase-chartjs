@@ -1,8 +1,9 @@
-# Reporting Dashboard
+# Halo teman - teman Developers. Please READ THIS Carefully.
 
 ![alt text](/img/dashboard.png)
 
 ---
+## Terima kasih sudah tertarik untuk join Pipeline
 
 ## Ini adalah contoh Dashboard yang dibangun menggunakan [SvelteKit](https://kit.svelte.dev/) sebagai Frontend dan  [Supabase](https://supabase.com/)  sebagai Backend
 
@@ -11,8 +12,11 @@
 Jika sudah selesai membuat dashboard versi kamu silahkan.
 
 <ul>
-<li>Kirim Video Perkenalan Diri dan Jelaskaan Apa Yang Kamu Bangun</li>
-<li>Kamu Bisa Rekam Menggunakan Loom.com atau vidline.com </li>
+<li>Kirim video perkenalan diri dan jelaskan fungsi apa yang kamu bangun</li>
+<li>Kamu bisa rekam menggunakan Loom.com atau vidline.com </li>
+<li>Dalam Proses ini kami akan menerima dua orang Developer [PAID] Intern BACKEND dan FRONTEND.</li>
+<li>Jika kamu lebih suka BACKEND menggunakan EXPRESS tidak usah terlalu fokus ke Frontend pakai saja component yang sudah ada</li>
+</li>Ubah codenya dan bangun APA SAJA CHART YANG KAMU BISA untuk menunjukan ketertarikan di BACKEND MENGGUNAKAN EXPRESS JS</li>
 </ul>
 
 </h3>
