@@ -43,8 +43,8 @@ Untuk melihat dashboard berdasarkan akses role silahkan [klik disini](https://sv
 - Coba tambahkan beberapa dokumentasi code sehingga team lain bisa memahami apa fungsi yang tujuan dari sebuah code.
 - Ada beberapa Typescript yang bermasalah.
 - Tambahkan Data dan Chart Versi kamu.
-- Hubungkan Frontend dengan Supabase
-	- [Documentation](https://supabase.com/docs/guides/getting-started/quickstarts/sveltekit)
+- Hubungkan Frontend dengan [Supabase](https://supabase.com/docs/guides/getting-started/quickstarts/sveltekit)
+- Tambahkan Role dan Organization UI --> [[Dokumentasi]]
 - Improve mobile version
 
 ## Cara Memulai
@@ -52,7 +52,7 @@ Untuk melihat dashboard berdasarkan akses role silahkan [klik disini](https://sv
 ### Bikin Akun Supabase
 
 1. Silahkan buat Proyek baru di [supabase.com](https://supabase.com/)  
-2. Go to Settings API to check your project URL and API keys.
+2. Pilih Settings API untuk melihat  project URL and API keys kamu.
 
 ### Clone Repo Ini
 
