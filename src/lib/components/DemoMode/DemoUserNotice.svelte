@@ -1,4 +1,4 @@
-<!-- <script lang="ts">
+<script lang="ts">
 	import { page } from '$app/stores';
 	import { PUBLIC_DEMO_MODE } from '$env/static/public';
 	import { AlertTriangleIcon } from 'svelte-feather-icons';
@@ -18,4 +18,4 @@
 			</div>
 		</div>
 	{/if}
-{/if} -->
+{/if}

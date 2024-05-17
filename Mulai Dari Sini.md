@@ -1,31 +1,31 @@
-# SvelteKit Supabase Dashboard (BETA)
+# Reporting Dashboard
 
 ![alt text](/img/dashboard.png)
 
 ---
 
-## Simple dashboard inspired by Supabase UI made with [SvelteKit](https://kit.svelte.dev/) as frontend and [Supabase](https://supabase.com/) as backend.
+## Ini adalah contoh Dashboard yang dibangun menggunakan [SvelteKit](https://kit.svelte.dev/) sebagai Frontend dan  [Supabase](https://supabase.com/)  sebagai Backend
 
 <h3>
 <span style="color:red">
-DISCLAIMER: This project is not production ready. Role based access is not fully tested. Use at your own risk.
+------- 
 </h3>
 </span>
 
-## Demo
+## Demo Dashboard
 
-Try different access roles and views [here](https://sveltekit-supabase-dashboard.vercel.app/).
+Untuk melihat dashboard berdasarkan akses role silahkan [klik disini](https://sveltekit-supabase-dashboard.vercel.app/).
 
-## Features
+## Fitur Yang Dimiliki
 
-- Supabase inspired UI
-- Multi organization
-- Role based access
-- User creation and deletion in dashboard UI
-- Tables & Charts demo views
+- User Interface dibuat dengan warna Supabase
+- Dashboard bisa dipakai oleh banyak organisasi dengan akun ID masing - masing.
+- Bisa memiliki beberapa tingkatan role akses di dalam sebuah organization.
+- Bisa menambahkan dan menghapus pengguna dari dalam Dashboard.
+- Tampilan Table dan Chart 
 - Demo mode (show hints and disable database updates)
 
-## Technologies
+## Teknologi Yang Dipakai
 
 - [Svelte](https://svelte.dev/) and [SvelteKit](https://kit.svelte.dev/) as application framework
 - [Supabase](https://supabase.com/) as database and backend
@@ -38,28 +38,27 @@ Try different access roles and views [here](https://sveltekit-supabase-dashboard
 - [svelte-loading-spinners](https://www.npmjs.com/package/svelte-loading-spinners) for loading spinners
 - [Vercel](https://vercel.com/) as deployment platform
 
-## TODO
+## Apa Yang Harus Dilakukan?
 
-- Improve development docs
-- Fix TypeScript issues
-- Add more chart views
-- ~~Update supabase-js v2~~
-- ~~User profiles~~
-- ~~Light/Dark mode~~
-- Improve mobile navigation
-- PWA
+- Coba tambahkan beberapa dokumentasi code sehingga team lain bisa memahami apa fungsi yang tujuan dari sebuah code.
+- Ada beberapa Typescript yang bermasalah.
+- Tambahkan Data dan Chart Versi kamu.
+- Hubungkan Frontend dengan Supabase
+	- [Documentation](https://supabase.com/docs/guides/getting-started/quickstarts/sveltekit)
+- Improve mobile version
 
-## Installation
+## Cara Memulai
 
-### Setup Supabase
+### Bikin Akun Supabase
 
-Create new project at [supabase.com](https://supabase.com/) and go to Settings->API to check your project URL and API keys
+1. Silahkan buat Proyek baru di [supabase.com](https://supabase.com/)  
+2. Go to Settings API to check your project URL and API keys.
 
-### Clone the repo
+### Clone Repo Ini
 
 ```bash
-git clone https://github.com/xulioc/sveltekit-supabase-dashboard.git
-cd sveltekit-supabase-dashboard
+git clone https://github.com/christmantoro/sveltekit-supabase-chartjs.git
+cd sveltekit-supabase-chartjs
 ```
 
 ### Setup environment variables

@@ -1,4 +1,4 @@
-# SvelteKit Supabase Dashboard -- DEVELOPMENT
+# Dashboard for Data Visualization -- DEVELOPMENT
 
 ## Demo mode
 
