@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mulai Dari Sini.md",
+                "file": "README_DEV.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mulai Dari Sini.md",
+                "file": "README_DEV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mulai Dari Sini.md",
+                "file": "README_DEV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mulai Dari Sini.md"
+                "file": "README_DEV.md"
               }
             }
           }
@@ -148,7 +148,7 @@
   },
   "active": "701a0bab0cde6f51",
   "lastOpenFiles": [
-    "README_DEV.md",
-    "Mulai Dari Sini.md"
+    "README.md",
+    "README_DEV.md"
   ]
 }
