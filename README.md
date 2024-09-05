@@ -5,7 +5,13 @@
 ---
 ## Terima kasih sudah tertarik untuk join Pipeline
 
-## Ini adalah contoh Dashboard yang dibangun menggunakan [SvelteKit](https://kit.svelte.dev/) sebagai Frontend dan  [Supabase](https://supabase.com/)  sebagai Backend
+## Ini adalah contoh Dashboard yang dibangun menggunakan [SvelteKit](https://kit.svelte.dev/) sebagai Frontend dan  [Supabase](https://supabase.com/)  sebagai Database
+
+## Silahkan Explore Dan Clone Repository ini
+
+## Jika sudah maka tolong convert ke Vue JS menggunakan Nuxt Framework. 
+
+## Dashboard Hanya Referensi Silahkan Berkreasi Sebebas Mungkin.
 
 <h3>
 <span style="color:red">
